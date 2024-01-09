@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class playerMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Start ini tempat mulai bego
     void Start()
     {
         
