@@ -7,12 +7,17 @@ public class playerMovement : MonoBehaviour
     // Start ini tempat mulai bego
     void Start()
     {
-        
+        Test();
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    void Test()
+    {
+        Debug.Log("Testing Movement");
     }
 }
