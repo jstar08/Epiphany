@@ -19,5 +19,6 @@ public class playerMovement : MonoBehaviour
     void Test()
     {
         Debug.Log("Testing Movement");
+        Debug.Log("Testing Movement Kedua");
     }
 }
